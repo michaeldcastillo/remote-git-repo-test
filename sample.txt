@@ -1,0 +1,5 @@
+add: Register a change in an index
+
+git add sample.txt
+
+git commit -m "append description of the add command"
