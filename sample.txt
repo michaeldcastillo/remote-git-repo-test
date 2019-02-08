@@ -3,3 +3,10 @@ add: Register a change in an index
 git add sample.txt
 
 git commit -m "append description of the add command"
+
+
+commit: Save the status of an index
+
+git add sample.txt
+
+git commit -m "append description of the commit command"
